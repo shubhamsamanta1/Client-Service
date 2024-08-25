@@ -1,0 +1,10 @@
+C:\Users\Asus vo14\Desktop\CodeBase\intellij\BANKING_SYSTEM\clientservice\src\main\java\com\banking\clientservice\ClientserviceApplication.java
+C:\Users\Asus vo14\Desktop\CodeBase\intellij\BANKING_SYSTEM\clientservice\src\main\java\com\banking\clientservice\controller\ClientController.java
+C:\Users\Asus vo14\Desktop\CodeBase\intellij\BANKING_SYSTEM\clientservice\src\main\java\com\banking\clientservice\Entities\ClientDetail.java
+C:\Users\Asus vo14\Desktop\CodeBase\intellij\BANKING_SYSTEM\clientservice\src\main\java\com\banking\clientservice\Entities\LoanAccDetail.java
+C:\Users\Asus vo14\Desktop\CodeBase\intellij\BANKING_SYSTEM\clientservice\src\main\java\com\banking\clientservice\Entities\NotifyDetail.java
+C:\Users\Asus vo14\Desktop\CodeBase\intellij\BANKING_SYSTEM\clientservice\src\main\java\com\banking\clientservice\Entities\SbCbDetail.java
+C:\Users\Asus vo14\Desktop\CodeBase\intellij\BANKING_SYSTEM\clientservice\src\main\java\com\banking\clientservice\repository\ClientDetailRepo.java
+C:\Users\Asus vo14\Desktop\CodeBase\intellij\BANKING_SYSTEM\clientservice\src\main\java\com\banking\clientservice\service\CallNotify.java
+C:\Users\Asus vo14\Desktop\CodeBase\intellij\BANKING_SYSTEM\clientservice\src\main\java\com\banking\clientservice\service\ClientDetailService.java
+C:\Users\Asus vo14\Desktop\CodeBase\intellij\BANKING_SYSTEM\clientservice\src\main\java\com\banking\clientservice\service\GetAccountDetails.java
